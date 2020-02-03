@@ -1,2 +1,2 @@
-# playground
- Class projectto explore GitHub desktop
+# Playground
+ Class project to explore GitHub desktop
