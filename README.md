@@ -1,2 +1,2 @@
 # Playground
- Class project to explore GitHub desktop
+ for explaoring github dektop
