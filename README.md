@@ -1,2 +1,3 @@
 # Playground
- for explaoring github dektop
+For exploring GitHub desktop
+
